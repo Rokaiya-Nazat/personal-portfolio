@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --font-inter:"inter "sans-serif; 
+  --font-mclaren:"McLaren "sans-serif; 
+  --font-display:"Display "sans-serif; 
+  --font-sour gummy:"Sour Gummy "sans-serif; 
+
+}
